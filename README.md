@@ -1,7 +1,7 @@
 # Integrated_Project-2
 
 ## Project description:
-The data is stored in three files:\
+The data is stored in three files:
 - Training dataset
 - Test dataset
 - Source dataset
